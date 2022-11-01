@@ -6,4 +6,7 @@ def funcionmodificar():
 
 def funcionsoloenramaprueba():
     print("v")
-    print("ok")
+    print("ok")}
+    
+def lineanueva():
+    print("soy nuevo")
