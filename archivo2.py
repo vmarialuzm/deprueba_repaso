@@ -10,3 +10,6 @@ def funcionsoloenramaprueba():
     
 def lineanueva():
     print("soy nuevo")
+
+def soloverenramaprueba():
+    pass
