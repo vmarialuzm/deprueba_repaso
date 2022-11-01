@@ -5,4 +5,5 @@ def funcionmodificar():
     print(suma)
 
 def funcionsoloenramaprueba():
+    print("v")
     print("ok")
